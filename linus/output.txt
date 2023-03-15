@@ -1,0 +1,30 @@
+
+Detected a car and text in 1.jpg
+Detected: $ BR8167
+Confidence: 93.95657
+1.jpg: $ BR8167
+
+Detected a car and text in 1.jpg
+Detected: $
+Confidence: 93.66762
+1.jpg: $
+
+Detected a car and text in 1.jpg
+Detected: BR8167
+Confidence: 94.24553
+1.jpg: BR8167
+
+Detected a car and text in 4.jpg
+Detected: YHI9 OTZ
+Confidence: 99.255684
+4.jpg: YHI9 OTZ
+
+Detected a car and text in 4.jpg
+Detected: YHI9
+Confidence: 99.037766
+4.jpg: YHI9
+
+Detected a car and text in 4.jpg
+Detected: OTZ
+Confidence: 99.4736
+4.jpg: OTZ
